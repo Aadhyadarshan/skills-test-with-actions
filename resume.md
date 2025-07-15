@@ -22,3 +22,4 @@ Developed and maintained various conference talks, online training, and in-perso
 ### Leadership
 
 Managed multiple _asynchronous teams_ in the development, maintenance, and release of various web applications and websites.
+_Create workflows that enable you to use Continuous Integration (CI) for your projects._
