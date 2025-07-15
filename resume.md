@@ -8,7 +8,6 @@ _Charting the knowledge of the Internet, just like Galileo charted the stars._
 
 Teach all things _Git_, give away all the stickers, ensure world peace.
 
-
 ### Supportocat
 
 Provide _world class support_ to customers on the GitHub platform
@@ -21,5 +20,5 @@ Developed and maintained various conference talks, online training, and in-perso
 
 ### Leadership
 
-Managed multiple _asynchronous teams_ in the development, maintenance, and release of various web applications and websites.
+Managed multiple _asynchronous teams_ in the development, maintenance, and release of various web applications and websites.  
 _Create workflows that enable you to use Continuous Integration (CI) for your projects._
